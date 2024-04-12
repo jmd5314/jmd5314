@@ -18,5 +18,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j_belief)](https://solved.ac/j_belief/)
 
-![Jo belief's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmd5314&show_icons=true&theme=default)
 <br>
