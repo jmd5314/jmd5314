@@ -7,7 +7,6 @@
  *Hongik University Computer Engineering Major (2017.3 ~ 2025.2)* <br>
  *Programmers Backend 1th DevCourse (2024.7 ~ 2024.12)*
  <br>
- <br>
     
 ## Stacks 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -20,7 +19,6 @@
     </div>
 </div>
 <br>
-<br>
 
 ## Tools
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -30,7 +28,6 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> 
     </div>
-<br>
 <br>
     
 ## Stats
