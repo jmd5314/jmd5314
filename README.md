@@ -9,7 +9,7 @@
 
 ## 💠 Activity
 - *Hongik University Computer Engineering*
-- *Hiark Algorithm Study Group*
+- *HI_ARC Algorithm Study Group*
 - *Programmers Backend 1st DevCourse*
 
 <br>
